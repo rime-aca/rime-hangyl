@@ -11,7 +11,7 @@
 
 ---
 name: hangyl_hanja
-version: "0.6"	#2017.12.26
+version: "0.6"	#2020.05.24
 sort: by_weight	#original
 use_preset_vocabulary: true
 import_tables:
@@ -19,73 +19,73 @@ import_tables:
 ...
 
 #推導漢字音
-嗯 qyn 은
-啦 lab 랍
-吧 pa  파
-孬 no  노
-孬 qoai  왜
-掹 maig  맹
-啥 sa  사
-臵 gieg  격
-喏 qia 야
-嘛 ma  마
-嗎 ma  마
-哋 ji  지
-啲 jeg 적
-仨 sab 삽
-仨 sam 삼
-呸 bi  비
-哪 na  나
-嘿 hyg 흑
-焊 han 한
-晗 ham 함
-咊 hoa 화
-唅 ham 함
-擋 daq 당
-閂 san 산
-涮 soai  쇄
-唰 sal 살
-唰 sel 설
-蔊 han 한
-獁 ma  마
-喵 mio 묘
-瞄 mio 묘
-嬤 ma  마
-蟆 ma  마
-啐 coai  쵀
-傻 sa  사
-囧 gieq  경
-冂 gieq  경
-吖 qa  아
-腌 qem 엄
-壩 pai 패
-壩 pa  파
-疤 pa  파
-粑 pa  파
-靶 pa  파
-画 hoa 화
-画 hoig  획
-㓰 hoig  획
-䃮 dal 달
-䥑 maig  맥
-叻 lieg  력
-荔   lie 려
-詈 li  리
-哎 qai 애
-嬡 qai 애
-嗌 qig 익
-璦 qai 애
-氨 qan 안
-胺 qal 알
-鵪 qam 암
-摁 qyn 은
-骯 haq 항
-洱 qi  이
-鴯 qi  이
-咦 qi  이
-頤 qi  이
-胰 qi  이
-羿 qiei  예
+嗯	qyn	은
+啦	lab	랍
+吧	pa	파
+孬	no	노
+孬	qoai	왜
+掹	maig	맹
+啥	sa	사
+臵	gieg	격
+喏	qia	야
+嘛	ma	마
+嗎	ma	마
+哋	ji	지
+啲	jeg	적
+仨	sab	삽
+仨	sam	삼
+呸	bi	비
+哪	na	나
+嘿	hyg	흑
+焊	han	한
+晗	ham	함
+咊	hoa	화
+唅	ham	함
+擋	daq	당
+閂	san	산
+涮	soai	쇄
+唰	sal	살
+唰	sel	설
+蔊	han	한
+獁	ma	마
+喵	mio	묘
+瞄	mio	묘
+嬤	ma	마
+蟆	ma	마
+啐	coai	쵀
+傻	sa	사
+囧	gieq	경
+冂	gieq	경
+吖	qa	아
+腌	qem	엄
+壩	pai	패
+壩	pa	파
+疤	pa	파
+粑	pa	파
+靶	pa	파
+画	hoa	화
+画	hoig	획
+㓰	hoig	획
+䃮	dal	달
+䥑	maig	맥
+叻	lieg	력
+荔	lie	려
+詈	li	리
+哎	qai	애
+嬡	qai	애
+嗌	qig	익
+璦	qai	애
+氨	qan	안
+胺	qal	알
+鵪	qam	암
+摁	qyn	은
+骯	haq	항
+洱	qi	이
+鴯	qi	이
+咦	qi	이
+頤	qi	이
+胰	qi	이
+羿	qiei	예
 
 
 #Unihan Korean
@@ -7875,180 +7875,183 @@ import_tables:
 丹	lan	란
 怒	lo	로
 
-亦是
-代身
-仲媒
-休紙
-作別
-作定
-便宜店
-便紙
-俗談
-傷處
-先拂
-冊牀
-別世
-別故
-刺戟
-副統領
-割增
-割引
-原稿紙
-去來
-取扱
-合乘
-呼訴
-唐慌
-商街
-問病
-問議
-喜悲劇
-團束
-坊坊曲曲
-埋立
-境遇
-大賣出
-女俳優
-如否
-始作
-姓衒
-子息
-子正
-學番
-學點
-客地
-宮合
-富者
-封套
-巡警
-平生
-引上
-引下
-形便
-待合
-待接
-後拂
-後斂
-後食
-德澤
-念慮
-恆常
-感氣
-所聞
-所重
-手巾
-手帖
-手當
-手票
-手續
-打字
-折半
-抽籤
-招人鐘
-掌匣
-接受
-操心
-放學
-斷乎
-於此彼
-於音
-日氣
-日製
-是非
-景緻
-有夫女
-有婦男
-木手
-株式
-模樣
-次例
-民草
-求景
-法院
-注油所
-洗手
-港口
-湖水
-燒酒
-物件
-男便
-當付
-當身
-登記
-盟誓
-相對方
-省墓
-短點
-砂糖
-碩士
-福券
-福德房
-禮式場
-秋夕
-移徙
-立場
-第一
-節次
-粉紅
-約婚
-紙匣
-組合
-組立
-綜合
-總角
-繼續
-美妝院
-美粧院
-能熟
-能通
-自鳴鐘
-船着場
-花斗
-苦待
-苦生
-荷物
-菜蔬
-萬若
-葉書
-處地
-蟲齒
-西紀
-見積
-親舊
-覺書
-計座
-試合
-該當
-買占
-貸切
-賂物
-賢母良妻
-賣上
-賣盡
-辭讓
-追越
-過歲
-還甲
-郵票
-郵遞局
-都賣
-銀河水
-閒暇
-陰兇
-陰凶
-雪糖
-鞏固
-食口
-養齒
-香氣
-點心
-齒藥
-雪冰
-雪氷
-併合
-陰數
-段階
-活性化
-追加
-機能
-制禦
+亦是	qieg si	역시
+代身	dai sin	대신
+仲媒	juq mai	중매
+休紙	hiu ji	휴지
+作別	jag biel	작별
+作定	jag jeq	작정
+便宜店	pien qyi jem	편의점
+便紙	pien ji	편지
+俗談	sog dam	속담
+傷處	saq ce	상처
+先拂	sen bul	선불
+冊牀	caig saq	책상
+別世	biel sei	별세
+別故	biel go	별고
+刺激	ja gyg	자극
+副統領	bu toq lieq	부통령
+割增	hal jyq	할증
+割引	hal qin	할인
+原稿紙	quen go ji	원고지
+去來	ge lai	거래
+取扱	cui gyb	취급
+合乘	hab syq	합승
+呼訴	ho so	호소
+唐慌	daq hoaq	당황
+商街	saq ga	상가
+問病	mun bieq	문병
+問議	mun qyi	문의
+喜悲劇	hyi bi gyg	희비극
+團束	dan sog	단속
+坊坊曲曲	baq baq gog gog	방방곡곡
+埋立	mai lib	매립
+境遇	gieq qu	경우
+大賣出	dai mai cul	대매출
+女俳優	qie bai qu	여배우
+如否	qie bu	여부
+始作	si jag	시작
+姓衒	seq hien	성현
+子息	ja sig	자식
+子正	ja jeq	자정
+學番	hag ben	학번
+學點	hag jem	학점
+客地	gaig ji	객지
+宮合	guq hab	궁합
+富者	bu ja	부자
+封套	boq tu	봉투
+巡警	sun gieq	순경
+平生	pieq saiq	평생
+引上	qin saq	인상
+引下	qin ha	인하
+形便	hieq pien	형편
+待合	dai hab	대합
+待接	dai jeb	대접
+後拂	hu bul	후불
+後斂	hu liem	후렴
+後食	hu sig	후식
+德澤	deg taig	덕택
+念慮	qiem lie	염려
+恆常	haq saq	항상
+感氣	gam gi	감기
+所聞	so mun	소문
+所重	so juq	소중
+手巾	su gen	수건
+手帖	su ceb	수첩
+手當	su daq	수당
+手票	su pio	수표
+手續	su sog	수속
+打字	ta ja	타자
+折半	jel ban	절반
+抽籤	cu cem	추첨
+招人鐘	co qin joq	초인종
+掌匣	jaq gab	장갑
+接受	jeb su	접수
+操心	jo sim	조심
+放學	baq hag	방학
+斷乎	dan ho	단호
+於此彼	qe ca pi	어차피
+於音	qe qym	어음
+日氣	qil gi	일기
+日製	qil jei	일제
+是非	si bi	시비
+景緻	gieq ci	경치
+有夫女	qiu bu nie	유부녀
+有婦男	qiu bu nam	유부남
+木手	mog su	목수
+株式	ju sig	주식
+模樣	mo qiaq	모양
+次例	ca liei	차례
+民草	min co	민초
+求景	gu gieq	구경
+法院	beb quen	법원
+注油所	ju qiu so	주유소
+洗手	sei su	세수
+港口	haq gu	항구
+湖水	ho su	호수
+燒酒	so ju	소주
+物件	mul gen	물건
+男便	nam pien	남편
+當付	daq bu	당부
+當身	daq sin	당신
+登記	dyq gi	등기
+盟誓	maiq se	맹서
+相對方	saq dai baq	상대방
+省墓	seq mio	성묘
+短點	dan jem	단점
+祠堂	sa daq	사당
+砂糖	sa taq	사탕
+碩士	seg sa	석사
+福券	bog guen	복권
+福德房	bog deg baq	복덕방
+禮式場	qiei sig jaq	예식장
+秋夕	cu seg	추석
+移徙	qi sa	이사
+立場	qib jaq	입장
+第一	jei qil	제일
+節次	jel ca	절차
+粉紅	bun hoq	분홍
+約婚	qiag hon	약혼
+紙匣	ji gab	지갑
+組合	jo hab	조합
+組立	jo lib	조립
+綜合	joq hab	종합
+總角	coq gag	총각
+繼續	giei sog	계속
+美妝院	mi jaq quen	미장원
+美粧院	mi jaq quen	미장원
+能熟	nyq sug	능숙
+能通	nyq toq	능통
+自鳴鐘	ja mieq joq	자명종
+船着場	sen cag jaq	선착장
+花斗	hoa du	화두
+苦待	go dai	고대
+苦生	go saiq	고생
+荷物	ha mul	하물
+菜蔬	cai so	채소
+萬若	man qiag	만약
+葉書	qieb se	엽서
+處地	ce ji	처지
+蟲齒	cuq ci	충치
+西紀	se gi	서기
+見積	gien jeg	견적
+親舊	cin gu	친구
+覺書	gag se	각서
+計座	giei joa	계좌
+試合	si hab	시합
+該當	hai daq	해당
+買占	mai jem	매점
+貸切	dai jel	대절
+大體	dai cei	대체
+代替	dai cei	대체
+賂物	noi mul	뇌물
+賢母良妻	hien mo qiaq ce	현모양처
+賣上	mai saq	매상
+賣盡	mai jin	매진
+辭讓	sa qiaq	사양
+追越	cu quel	추월
+過歲	goa sei	과세
+還甲	hoan gab	환갑
+郵票	qu pio	우표
+郵遞局	qu cei gug	우체국
+都賣	do mai	도매
+銀河水	qyn ha su	은하수
+閒暇	han ga	한가
+陰兇	qym hiuq	음흉
+陰凶	qym hiuq	음흉
+雪糖	sel taq	설탕
+鞏固	goq go	공고
+食口	sig gu	식구
+養齒	qiaq ci	양치
+香氣	hiaq gi	향기
+點心	jem sim	점심
+齒藥	ci qiag	치약
+雪冰	sel biq	설빙
+雪氷	sel biq	설빙
+陰數	qym su	음수
+段階	dan giei	단계
+活性化	hoal seq hoa	활성화
+追加	cu ga	추가
+機能	gi nyq	기능
+制禦	jei qe	제어
+千年萬年	cen nien man nien	천년만년
