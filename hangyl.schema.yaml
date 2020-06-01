@@ -4,10 +4,11 @@
 
 schema:
   schema_id: hangyl
-  name: 한글 ₀.₉₂
-  version: "0.92"
+  name: 한글 ₀.₉₃
+  version: "0.93"
   author:
     - Patrick <ipatrickmac@me.com>
+    - 雪齋 <lyc20041@gmail.com>
   description: |
     한글입력법 for Rime
     ㄱg ㄴn ㄷd ㄹlr ㅁm ㅂbv ㅅs ㅇqx
@@ -55,6 +56,7 @@ speller:
   algebra:
     - abbrev/^([gndlmbsqjcktph]).+$/$1/
     - derive/(^|[ '])q?([aeiouy])/$1$2/
+    - derive/'//
     - derive/q$/ng/
     - derive/q/x/
     - derive/l/r/
