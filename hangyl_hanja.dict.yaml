@@ -5,6 +5,8 @@
 # hangyl_hanja - 한글・漢字
 #
 # Patrick <ipatrickmac@me.com>
+# 雪齋 <lyc20041@gmail.com>
+# Data partially collected from ko.wiktionary.org
 #
 # 韓文轉寫方案
 #
@@ -8844,6 +8846,7 @@ import_tables:
 逝	ga'da	가다
 痰	ga'lai	가래
 鍬	ga'lai	가래
+江	ga'lam	가람
 橫	ga'lo	가로
 屑	ga'lu	가루
 粉	ga'lu	가루
